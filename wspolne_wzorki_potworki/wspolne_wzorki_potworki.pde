@@ -4,7 +4,7 @@ int x, y;
 void setup()
 {
   frameRate( 50 );
-  size(640, 480);
+  size(800, 600);
   rozmiar = 15;
   x = 0;
   y = 0;
